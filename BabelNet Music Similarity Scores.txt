@@ -9,6 +9,7 @@ electronic-electronic: 0.095989
 experimental-experimental: 0.085193
 folk-folk: 0.095059
 funk-funk: 0.089407
+heavy-metal-heavy-metal: 0.088744
 hip-hop-hip-hop: 0.102959
 holiday-holiday: 0.091266
 indie-indie: 0.098564
@@ -17,7 +18,7 @@ inspirational-inspirational: 0.103931
 instrumental-instrumental: 0.088744
 jazz-jazz: 0.082533
 karaoke-karaoke: 0.106683
-metal-metal: 0.090478
+metal-metal: 0.090293
 new-age-new-age: 0.093067
 pop-pop: 0.094354
 punk-punk: 0.098340
@@ -41,6 +42,7 @@ alternative-electronic: 0.094125
 alternative-experimental: 0.089592
 alternative-folk: 0.094244
 alternative-funk: 0.088197
+alternative-heavy-metal: 0.088772
 alternative-hip-hop: 0.088616
 alternative-holiday: 0.090073
 alternative-indie: 0.097096
@@ -49,7 +51,7 @@ alternative-inspirational: 0.096446
 alternative-instrumental: 0.090864
 alternative-jazz: 0.085559
 alternative-karaoke: 0.096054
-alternative-metal: 0.090754
+alternative-metal: 0.090413
 alternative-new-age: 0.098134
 alternative-pop: 0.094202
 alternative-punk: 0.093920
@@ -73,6 +75,7 @@ blues-electronic: 0.089518
 blues-experimental: 0.085836
 blues-folk: 0.090959
 blues-funk: 0.086308
+blues-heavy-metal: 0.084380
 blues-hip-hop: 0.084737
 blues-holiday: 0.086204
 blues-indie: 0.092352
@@ -81,7 +84,7 @@ blues-inspirational: 0.091411
 blues-instrumental: 0.088510
 blues-jazz: 0.085080
 blues-karaoke: 0.091286
-blues-metal: 0.086785
+blues-metal: 0.086518
 blues-new-age: 0.096238
 blues-pop: 0.090037
 blues-punk: 0.090559
@@ -105,6 +108,7 @@ classical-electronic: 0.086721
 classical-experimental: 0.079663
 classical-folk: 0.083991
 classical-funk: 0.078790
+classical-heavy-metal: 0.076751
 classical-hip-hop: 0.085885
 classical-holiday: 0.089993
 classical-indie: 0.085350
@@ -113,7 +117,7 @@ classical-inspirational: 0.091819
 classical-instrumental: 0.081955
 classical-jazz: 0.078434
 classical-karaoke: 0.101923
-classical-metal: 0.078254
+classical-metal: 0.077699
 classical-new-age: 0.087668
 classical-pop: 0.086128
 classical-punk: 0.079885
@@ -137,6 +141,7 @@ comedy-electronic: 0.073578
 comedy-experimental: 0.070545
 comedy-folk: 0.072082
 comedy-funk: 0.072275
+comedy-heavy-metal: 0.074721
 comedy-hip-hop: 0.072649
 comedy-holiday: 0.068796
 comedy-indie: 0.075116
@@ -145,7 +150,7 @@ comedy-inspirational: 0.076513
 comedy-instrumental: 0.075202
 comedy-jazz: 0.067277
 comedy-karaoke: 0.077135
-comedy-metal: 0.075189
+comedy-metal: 0.075049
 comedy-new-age: 0.073643
 comedy-pop: 0.073385
 comedy-punk: 0.078373
@@ -169,6 +174,7 @@ country-electronic: 0.093365
 country-experimental: 0.086574
 country-folk: 0.093766
 country-funk: 0.085733
+country-heavy-metal: 0.085272
 country-hip-hop: 0.093313
 country-holiday: 0.093225
 country-indie: 0.093270
@@ -177,7 +183,7 @@ country-inspirational: 0.100867
 country-instrumental: 0.087334
 country-jazz: 0.086848
 country-karaoke: 0.103639
-country-metal: 0.087452
+country-metal: 0.087012
 country-new-age: 0.098840
 country-pop: 0.094208
 country-punk: 0.090175
@@ -201,6 +207,7 @@ dance-electronic: 0.095788
 dance-experimental: 0.087189
 dance-folk: 0.092746
 dance-funk: 0.087356
+dance-heavy-metal: 0.084678
 dance-hip-hop: 0.095438
 dance-holiday: 0.095102
 dance-indie: 0.094029
@@ -209,7 +216,7 @@ dance-inspirational: 0.100053
 dance-instrumental: 0.088396
 dance-jazz: 0.085211
 dance-karaoke: 0.103379
-dance-metal: 0.087010
+dance-metal: 0.086508
 dance-new-age: 0.096624
 dance-pop: 0.094683
 dance-punk: 0.089556
@@ -233,6 +240,7 @@ easy-listening-electronic: 0.095016
 easy-listening-experimental: 0.088639
 easy-listening-folk: 0.095282
 easy-listening-funk: 0.089503
+easy-listening-heavy-metal: 0.088358
 easy-listening-hip-hop: 0.093624
 easy-listening-holiday: 0.093095
 easy-listening-indie: 0.095654
@@ -241,7 +249,7 @@ easy-listening-inspirational: 0.099886
 easy-listening-instrumental: 0.091058
 easy-listening-jazz: 0.088652
 easy-listening-karaoke: 0.102594
-easy-listening-metal: 0.090518
+easy-listening-metal: 0.090147
 easy-listening-new-age: 0.100400
 easy-listening-pop: 0.095703
 easy-listening-punk: 0.094011
@@ -265,6 +273,7 @@ electronic-easy-listening: 0.095016
 electronic-experimental: 0.088712
 electronic-folk: 0.093479
 electronic-funk: 0.087030
+electronic-heavy-metal: 0.085028
 electronic-hip-hop: 0.093482
 electronic-holiday: 0.093198
 electronic-indie: 0.095292
@@ -273,7 +282,7 @@ electronic-inspirational: 0.099421
 electronic-instrumental: 0.089413
 electronic-jazz: 0.085553
 electronic-karaoke: 0.102251
-electronic-metal: 0.087429
+electronic-metal: 0.086936
 electronic-new-age: 0.096136
 electronic-pop: 0.094550
 electronic-punk: 0.089773
@@ -297,6 +306,7 @@ experimental-easy-listening: 0.088641
 experimental-electronic: 0.088718
 experimental-folk: 0.088857
 experimental-funk: 0.082598
+experimental-heavy-metal: 0.082587
 experimental-hip-hop: 0.083631
 experimental-holiday: 0.084577
 experimental-indie: 0.090794
@@ -305,7 +315,7 @@ experimental-inspirational: 0.090468
 experimental-instrumental: 0.086293
 experimental-jazz: 0.080630
 experimental-karaoke: 0.091153
-experimental-metal: 0.084576
+experimental-metal: 0.084262
 experimental-new-age: 0.091728
 experimental-pop: 0.087993
 experimental-punk: 0.087269
@@ -329,6 +339,7 @@ folk-easy-listening: 0.095284
 folk-electronic: 0.093479
 folk-experimental: 0.088852
 folk-funk: 0.086141
+folk-heavy-metal: 0.085565
 folk-hip-hop: 0.089229
 folk-holiday: 0.091275
 folk-indie: 0.095417
@@ -337,7 +348,7 @@ folk-inspirational: 0.096884
 folk-instrumental: 0.089693
 folk-jazz: 0.086263
 folk-karaoke: 0.098674
-folk-metal: 0.088026
+folk-metal: 0.087643
 folk-new-age: 0.099672
 folk-pop: 0.093604
 folk-punk: 0.091286
@@ -361,6 +372,7 @@ funk-easy-listening: 0.089501
 funk-electronic: 0.087035
 funk-experimental: 0.082595
 funk-folk: 0.086141
+funk-heavy-metal: 0.083804
 funk-hip-hop: 0.084198
 funk-holiday: 0.082243
 funk-indie: 0.088571
@@ -369,7 +381,7 @@ funk-inspirational: 0.089005
 funk-instrumental: 0.086869
 funk-jazz: 0.081437
 funk-karaoke: 0.086991
-funk-metal: 0.086139
+funk-metal: 0.085950
 funk-new-age: 0.091845
 funk-pop: 0.087217
 funk-punk: 0.090951
@@ -383,6 +395,39 @@ funk-spoken-word: 0.088414
 funk-vocal: 0.086799
 funk-world: 0.085783
 
+heavy-metal-alternative: 0.088772
+heavy-metal-blues: 0.084384
+heavy-metal-classical: 0.076758
+heavy-metal-comedy: 0.074663
+heavy-metal-country: 0.085271
+heavy-metal-dance: 0.084679
+heavy-metal-easy-listening: 0.088358
+heavy-metal-electronic: 0.085028
+heavy-metal-experimental: 0.082581
+heavy-metal-folk: 0.085565
+heavy-metal-funk: 0.083801
+heavy-metal-hip-hop: 0.080881
+heavy-metal-holiday: 0.080427
+heavy-metal-indie: 0.088862
+heavy-metal-industrial: 0.082738
+heavy-metal-inspirational: 0.087890
+heavy-metal-instrumental: 0.086283
+heavy-metal-jazz: 0.077822
+heavy-metal-karaoke: 0.083194
+heavy-metal-metal: 0.089281
+heavy-metal-new-age: 0.090949
+heavy-metal-pop: 0.086174
+heavy-metal-punk: 0.092376
+heavy-metal-rap: 0.084624
+heavy-metal-reggae: 0.090340
+heavy-metal-rnb: 0.081873
+heavy-metal-rock: 0.088900
+heavy-metal-singer-songwriter: 0.079895
+heavy-metal-soul: 0.083754
+heavy-metal-spoken-word: 0.085225
+heavy-metal-vocal: 0.084989
+heavy-metal-world: 0.084123
+
 hip-hop-alternative: 0.088613
 hip-hop-blues: 0.084738
 hip-hop-classical: 0.085870
@@ -394,6 +439,7 @@ hip-hop-electronic: 0.093473
 hip-hop-experimental: 0.083624
 hip-hop-folk: 0.089228
 hip-hop-funk: 0.084189
+hip-hop-heavy-metal: 0.080874
 hip-hop-holiday: 0.095952
 hip-hop-indie: 0.088763
 hip-hop-industrial: 0.081757
@@ -401,7 +447,7 @@ hip-hop-inspirational: 0.101006
 hip-hop-instrumental: 0.084428
 hip-hop-jazz: 0.083155
 hip-hop-karaoke: 0.103826
-hip-hop-metal: 0.082975
+hip-hop-metal: 0.082324
 hip-hop-new-age: 0.094297
 hip-hop-pop: 0.091954
 hip-hop-punk: 0.084823
@@ -426,6 +472,7 @@ holiday-electronic: 0.093202
 holiday-experimental: 0.084577
 holiday-folk: 0.091275
 holiday-funk: 0.082243
+holiday-heavy-metal: 0.080427
 holiday-hip-hop: 0.095985
 holiday-indie: 0.090380
 holiday-industrial: 0.081052
@@ -433,7 +480,7 @@ holiday-inspirational: 0.100407
 holiday-instrumental: 0.084802
 holiday-jazz: 0.083130
 holiday-karaoke: 0.116810
-holiday-metal: 0.083676
+holiday-metal: 0.083228
 holiday-new-age: 0.098137
 holiday-pop: 0.092622
 holiday-punk: 0.085100
@@ -458,6 +505,7 @@ indie-electronic: 0.095291
 indie-experimental: 0.090789
 indie-folk: 0.095416
 indie-funk: 0.088573
+indie-heavy-metal: 0.088861
 indie-hip-hop: 0.088765
 indie-holiday: 0.090374
 indie-industrial: 0.085021
@@ -465,7 +513,7 @@ indie-inspirational: 0.097093
 indie-instrumental: 0.091612
 indie-jazz: 0.086163
 indie-karaoke: 0.096522
-indie-metal: 0.091023
+indie-metal: 0.090674
 indie-new-age: 0.098827
 indie-pop: 0.095090
 indie-punk: 0.094253
@@ -490,6 +538,7 @@ industrial-electronic: 0.083376
 industrial-experimental: 0.080939
 industrial-folk: 0.084212
 industrial-funk: 0.082818
+industrial-heavy-metal: 0.082735
 industrial-hip-hop: 0.081762
 industrial-holiday: 0.081052
 industrial-indie: 0.085024
@@ -497,7 +546,7 @@ industrial-inspirational: 0.085917
 industrial-instrumental: 0.085970
 industrial-jazz: 0.079540
 industrial-karaoke: 0.087964
-industrial-metal: 0.084798
+industrial-metal: 0.084699
 industrial-new-age: 0.088711
 industrial-pop: 0.083651
 industrial-punk: 0.087858
@@ -522,6 +571,7 @@ inspirational-electronic: 0.099416
 inspirational-experimental: 0.090460
 inspirational-folk: 0.096881
 inspirational-funk: 0.089005
+inspirational-heavy-metal: 0.087890
 inspirational-hip-hop: 0.101016
 inspirational-holiday: 0.100407
 inspirational-indie: 0.097092
@@ -529,7 +579,7 @@ inspirational-industrial: 0.085910
 inspirational-instrumental: 0.090102
 inspirational-jazz: 0.088831
 inspirational-karaoke: 0.107208
-inspirational-metal: 0.090148
+inspirational-metal: 0.089512
 inspirational-new-age: 0.099753
 inspirational-pop: 0.098416
 inspirational-punk: 0.091918
@@ -554,6 +604,7 @@ instrumental-electronic: 0.089414
 instrumental-experimental: 0.086284
 instrumental-folk: 0.089692
 instrumental-funk: 0.086869
+instrumental-heavy-metal: 0.086291
 instrumental-hip-hop: 0.084432
 instrumental-holiday: 0.084802
 instrumental-indie: 0.091615
@@ -561,7 +612,7 @@ instrumental-industrial: 0.085961
 instrumental-inspirational: 0.090106
 instrumental-jazz: 0.083570
 instrumental-karaoke: 0.086204
-instrumental-metal: 0.087612
+instrumental-metal: 0.087304
 instrumental-new-age: 0.095882
 instrumental-pop: 0.089257
 instrumental-punk: 0.091789
@@ -586,6 +637,7 @@ jazz-electronic: 0.085557
 jazz-experimental: 0.080632
 jazz-folk: 0.086268
 jazz-funk: 0.081446
+jazz-heavy-metal: 0.077821
 jazz-hip-hop: 0.083154
 jazz-holiday: 0.083130
 jazz-indie: 0.086166
@@ -593,7 +645,7 @@ jazz-industrial: 0.079534
 jazz-inspirational: 0.088834
 jazz-instrumental: 0.083575
 jazz-karaoke: 0.090543
-jazz-metal: 0.080483
+jazz-metal: 0.080216
 jazz-new-age: 0.091214
 jazz-pop: 0.085859
 jazz-punk: 0.084142
@@ -618,6 +670,7 @@ karaoke-electronic: 0.102251
 karaoke-experimental: 0.091153
 karaoke-folk: 0.098674
 karaoke-funk: 0.086991
+karaoke-heavy-metal: 0.083194
 karaoke-hip-hop: 0.103826
 karaoke-holiday: 0.116810
 karaoke-indie: 0.096518
@@ -625,7 +678,7 @@ karaoke-industrial: 0.087964
 karaoke-inspirational: 0.107208
 karaoke-instrumental: 0.086204
 karaoke-jazz: 0.090543
-karaoke-metal: 0.087117
+karaoke-metal: 0.086581
 karaoke-new-age: 0.093664
 karaoke-pop: 0.100686
 karaoke-punk: 0.084862
@@ -639,37 +692,38 @@ karaoke-spoken-word: 0.090283
 karaoke-vocal: 0.097143
 karaoke-world: 0.106023
 
-metal-alternative: 0.090754
-metal-blues: 0.086786
-metal-classical: 0.078258
-metal-comedy: 0.075146
-metal-country: 0.087454
-metal-dance: 0.087011
-metal-easy-listening: 0.090518
-metal-electronic: 0.087430
-metal-experimental: 0.084571
-metal-folk: 0.088027
-metal-funk: 0.086139
-metal-hip-hop: 0.082981
-metal-holiday: 0.083676
-metal-indie: 0.091024
-metal-industrial: 0.084795
-metal-inspirational: 0.090152
-metal-instrumental: 0.087609
-metal-jazz: 0.080483
-metal-karaoke: 0.087185
-metal-new-age: 0.093194
-metal-pop: 0.088427
-metal-punk: 0.093573
-metal-rap: 0.086802
-metal-reggae: 0.092677
-metal-rnb: 0.084288
-metal-rock: 0.090857
-metal-singer-songwriter: 0.082762
-metal-soul: 0.086158
-metal-spoken-word: 0.086856
-metal-vocal: 0.087553
-metal-world: 0.086379
+metal-alternative: 0.090413
+metal-blues: 0.086518
+metal-classical: 0.077703
+metal-comedy: 0.075004
+metal-country: 0.087014
+metal-dance: 0.086507
+metal-easy-listening: 0.090148
+metal-electronic: 0.086936
+metal-experimental: 0.084257
+metal-folk: 0.087644
+metal-funk: 0.085950
+metal-heavy-metal: 0.089279
+metal-hip-hop: 0.082328
+metal-holiday: 0.083228
+metal-indie: 0.090674
+metal-industrial: 0.084695
+metal-inspirational: 0.089517
+metal-instrumental: 0.087300
+metal-jazz: 0.080215
+metal-karaoke: 0.086653
+metal-new-age: 0.092877
+metal-pop: 0.088001
+metal-punk: 0.093493
+metal-rap: 0.086266
+metal-reggae: 0.091965
+metal-rnb: 0.083717
+metal-rock: 0.090517
+metal-singer-songwriter: 0.082319
+metal-soul: 0.085776
+metal-spoken-word: 0.086509
+metal-vocal: 0.087213
+metal-world: 0.085801
 
 new-age-alternative: 0.098136
 new-age-blues: 0.096212
@@ -682,6 +736,7 @@ new-age-electronic: 0.096149
 new-age-experimental: 0.091728
 new-age-folk: 0.099680
 new-age-funk: 0.091845
+new-age-heavy-metal: 0.090949
 new-age-hip-hop: 0.094355
 new-age-holiday: 0.098137
 new-age-indie: 0.098834
@@ -690,7 +745,7 @@ new-age-inspirational: 0.099797
 new-age-instrumental: 0.095899
 new-age-jazz: 0.091149
 new-age-karaoke: 0.093664
-new-age-metal: 0.093194
+new-age-metal: 0.092877
 new-age-pop: 0.097575
 new-age-punk: 0.098305
 new-age-rap: 0.097123
@@ -714,6 +769,7 @@ pop-electronic: 0.094551
 pop-experimental: 0.087990
 pop-folk: 0.093604
 pop-funk: 0.087219
+pop-heavy-metal: 0.086174
 pop-hip-hop: 0.091961
 pop-holiday: 0.092623
 pop-indie: 0.095092
@@ -722,7 +778,7 @@ pop-inspirational: 0.098423
 pop-instrumental: 0.089258
 pop-jazz: 0.085857
 pop-karaoke: 0.100693
-pop-metal: 0.088427
+pop-metal: 0.088002
 pop-new-age: 0.097570
 pop-punk: 0.091314
 pop-rap: 0.094440
@@ -746,6 +802,7 @@ punk-electronic: 0.089771
 punk-experimental: 0.087261
 punk-folk: 0.091285
 punk-funk: 0.090946
+punk-heavy-metal: 0.092368
 punk-hip-hop: 0.084823
 punk-holiday: 0.085100
 punk-indie: 0.094250
@@ -754,7 +811,7 @@ punk-inspirational: 0.091914
 punk-instrumental: 0.091784
 punk-jazz: 0.084138
 punk-karaoke: 0.084862
-punk-metal: 0.093563
+punk-metal: 0.093483
 punk-new-age: 0.098305
 punk-pop: 0.091310
 punk-rap: 0.088633
@@ -778,6 +835,7 @@ rap-electronic: 0.095825
 rap-experimental: 0.086479
 rap-folk: 0.091791
 rap-funk: 0.087547
+rap-heavy-metal: 0.084618
 rap-hip-hop: 0.104156
 rap-holiday: 0.097053
 rap-indie: 0.092036
@@ -786,7 +844,7 @@ rap-inspirational: 0.102553
 rap-instrumental: 0.087420
 rap-jazz: 0.085764
 rap-karaoke: 0.105449
-rap-metal: 0.086798
+rap-metal: 0.086263
 rap-new-age: 0.097069
 rap-pop: 0.094432
 rap-punk: 0.088640
@@ -810,6 +868,7 @@ reggae-electronic: 0.104024
 reggae-experimental: 0.093449
 reggae-folk: 0.099830
 reggae-funk: 0.093097
+reggae-heavy-metal: 0.090338
 reggae-hip-hop: 0.105944
 reggae-holiday: 0.105787
 reggae-indie: 0.100131
@@ -818,7 +877,7 @@ reggae-inspirational: 0.109945
 reggae-instrumental: 0.093698
 reggae-jazz: 0.089836
 reggae-karaoke: 0.117257
-reggae-metal: 0.092671
+reggae-metal: 0.091959
 reggae-new-age: 0.103249
 reggae-pop: 0.102435
 reggae-punk: 0.093830
@@ -842,6 +901,7 @@ rnb-electronic: 0.095708
 rnb-experimental: 0.085200
 rnb-folk: 0.091826
 rnb-funk: 0.086104
+rnb-heavy-metal: 0.081867
 rnb-hip-hop: 0.100874
 rnb-holiday: 0.097465
 rnb-indie: 0.091261
@@ -850,7 +910,7 @@ rnb-inspirational: 0.102121
 rnb-instrumental: 0.086204
 rnb-jazz: 0.086496
 rnb-karaoke: 0.104679
-rnb-metal: 0.084284
+rnb-metal: 0.083715
 rnb-new-age: 0.096637
 rnb-pop: 0.094391
 rnb-punk: 0.086593
@@ -874,6 +934,7 @@ rock-electronic: 0.093866
 rock-experimental: 0.089460
 rock-folk: 0.093977
 rock-funk: 0.088089
+rock-heavy-metal: 0.088900
 rock-hip-hop: 0.088118
 rock-holiday: 0.089844
 rock-indie: 0.096957
@@ -882,7 +943,7 @@ rock-inspirational: 0.096124
 rock-instrumental: 0.090858
 rock-jazz: 0.085149
 rock-karaoke: 0.095975
-rock-metal: 0.090857
+rock-metal: 0.090517
 rock-new-age: 0.098118
 rock-pop: 0.093984
 rock-punk: 0.093964
@@ -906,6 +967,7 @@ singer-songwriter-electronic: 0.089086
 singer-songwriter-experimental: 0.083634
 singer-songwriter-folk: 0.089945
 singer-songwriter-funk: 0.081647
+singer-songwriter-heavy-metal: 0.079895
 singer-songwriter-hip-hop: 0.087084
 singer-songwriter-holiday: 0.087511
 singer-songwriter-indie: 0.089314
@@ -914,7 +976,7 @@ singer-songwriter-inspirational: 0.092967
 singer-songwriter-instrumental: 0.085497
 singer-songwriter-jazz: 0.082626
 singer-songwriter-karaoke: 0.092638
-singer-songwriter-metal: 0.082761
+singer-songwriter-metal: 0.082318
 singer-songwriter-new-age: 0.094221
 singer-songwriter-pop: 0.088886
 singer-songwriter-punk: 0.085494
@@ -938,6 +1000,7 @@ soul-electronic: 0.093981
 soul-experimental: 0.086448
 soul-folk: 0.092499
 soul-funk: 0.087213
+soul-heavy-metal: 0.083751
 soul-hip-hop: 0.095348
 soul-holiday: 0.092618
 soul-indie: 0.092474
@@ -946,7 +1009,7 @@ soul-inspirational: 0.099591
 soul-instrumental: 0.087979
 soul-jazz: 0.087371
 soul-karaoke: 0.102008
-soul-metal: 0.086156
+soul-metal: 0.085774
 soul-new-age: 0.096848
 soul-pop: 0.093666
 soul-punk: 0.089328
@@ -970,6 +1033,7 @@ spoken-word-electronic: 0.090189
 spoken-word-experimental: 0.086544
 spoken-word-folk: 0.091762
 spoken-word-funk: 0.088440
+spoken-word-heavy-metal: 0.085219
 spoken-word-hip-hop: 0.086346
 spoken-word-holiday: 0.086989
 spoken-word-indie: 0.092461
@@ -978,7 +1042,7 @@ spoken-word-inspirational: 0.091493
 spoken-word-instrumental: 0.092161
 spoken-word-jazz: 0.086777
 spoken-word-karaoke: 0.090283
-spoken-word-metal: 0.086857
+spoken-word-metal: 0.086509
 spoken-word-new-age: 0.096343
 spoken-word-pop: 0.090675
 spoken-word-punk: 0.092722
@@ -1002,6 +1066,7 @@ vocal-electronic: 0.093241
 vocal-experimental: 0.087618
 vocal-folk: 0.093892
 vocal-funk: 0.086800
+vocal-heavy-metal: 0.084989
 vocal-hip-hop: 0.090831
 vocal-holiday: 0.092946
 vocal-indie: 0.093675
@@ -1010,7 +1075,7 @@ vocal-inspirational: 0.097049
 vocal-instrumental: 0.089911
 vocal-jazz: 0.087721
 vocal-karaoke: 0.097143
-vocal-metal: 0.087552
+vocal-metal: 0.087212
 vocal-new-age: 0.098613
 vocal-pop: 0.093324
 vocal-punk: 0.090939
@@ -1034,6 +1099,7 @@ world-electronic: 0.094731
 world-experimental: 0.086567
 world-folk: 0.092368
 world-funk: 0.085782
+world-heavy-metal: 0.084123
 world-hip-hop: 0.095250
 world-holiday: 0.092375
 world-indie: 0.093408
@@ -1042,7 +1108,7 @@ world-inspirational: 0.101206
 world-instrumental: 0.086538
 world-jazz: 0.084921
 world-karaoke: 0.106023
-world-metal: 0.086379
+world-metal: 0.085801
 world-new-age: 0.095084
 world-pop: 0.094068
 world-punk: 0.088381
@@ -1054,4 +1120,3 @@ world-singer-songwriter: 0.089063
 world-soul: 0.094902
 world-spoken-word: 0.087481
 world-vocal: 0.091493
-
