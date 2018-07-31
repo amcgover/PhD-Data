@@ -1,0 +1,485 @@
+Department of Engineering Science-Department of Engineering Science: 0.000000
+Department of Oncology-Department of Oncology: 0.444478
+Department of Physics-Department of Physics: 0.174031
+Department of Politics and International Relations (DPIR)-Department of Politics and International Relations (DPIR): 0.000000
+Humanities Division-Humanities Division: 0.000000
+Mathematical Institute-Mathematical Institute: 0.220863
+Mathematical Physical and Life Sciences (MPLS)-Mathematical Physical and Life Sciences (MPLS): 0.024632
+Medical Sciences Division-Medical Sciences Division: 0.083076
+NOT FOUND-NOT FOUND: 0.000000
+Nuffield Department of Clinical Medicine-Nuffield Department of Clinical Medicine: 0.160158
+Nuffield Department of Population Health-Nuffield Department of Population Health: 0.212854
+Personnel and Related Services-Personnel and Related Services: 0.076248
+School of Geography and the Environment-School of Geography and the Environment: 0.140825
+Social Sciences Division-Social Sciences Division: 0.073143
+University Administration and Services (UAS)-University Administration and Services (UAS): 0.516132
+University of Oxford-University of Oxford: 0.000000
+
+
+
+
+
+
+
+Department of Engineering Science-Bodleian Libraries: 0.000000
+Department of Engineering Science-Centre for Health Service Economics and Organisation: 0.000000
+Department of Engineering Science-Centre for Tropical Medicine and Global Health: 0.000000
+Department of Engineering Science-Department of Chemistry: 0.000000
+Department of Engineering Science-Department of Oncology: 0.112792
+Department of Engineering Science-Department of Paediatrics: 0.385982
+Department of Engineering Science-Department of Physics: 0.082956
+Department of Engineering Science-Department of Politics and International Relations (DPIR): 0.020515
+Department of Engineering Science-Faculty of Classics: 0.000000
+Department of Engineering Science-Faculty of History: 0.000000
+Department of Engineering Science-Faculty of Law: 0.000000
+Department of Engineering Science-Humanities Division: 0.073831
+Department of Engineering Science-Kellogg College: 0.000000
+Department of Engineering Science-Mathematical Institute: 0.068160
+Department of Engineering Science-Mathematical Physical and Life Sciences (MPLS): 0.001626
+Department of Engineering Science-Medical Sciences Division: 0.099519
+Department of Engineering Science-NOT FOUND: 0.000000
+Department of Engineering Science-Nuffield Department of Clinical Medicine: 0.073483
+Department of Engineering Science-Nuffield Department of Population Health: 0.195935
+Department of Engineering Science-Nuffield Department of Primary Care Health Sciences: 0.000000
+Department of Engineering Science-Personnel and Related Services: 0.088351
+Department of Engineering Science-Radcliffe Department of Medicine: 0.000000
+Department of Engineering Science-Radcliffe School of Medicine: 0.000000
+Department of Engineering Science-School of Geography and the Environment: 0.025660
+Department of Engineering Science-Social Sciences Division: 0.032910
+Department of Engineering Science-University Administration and Services (UAS): 0.000000
+Department of Engineering Science-University of Oxford: 0.038538
+
+Department of Oncology-Bodleian Libraries: 0.000000
+Department of Oncology-Centre for Health Service Economics and Organisation: 0.000000
+Department of Oncology-Centre for Tropical Medicine and Global Health: 0.000000
+Department of Oncology-Department of Chemistry: 0.000000
+Department of Oncology-Department of Engineering Science: 0.112792
+Department of Oncology-Department of Paediatrics: 0.075204
+Department of Oncology-Department of Physics: 0.000000
+Department of Oncology-Department of Politics and International Relations (DPIR): 0.000000
+Department of Oncology-Faculty of Classics: 0.000000
+Department of Oncology-Faculty of History: 0.000000
+Department of Oncology-Faculty of Law: 0.000000
+Department of Oncology-Humanities Division: 0.000000
+Department of Oncology-Kellogg College: 0.000000
+Department of Oncology-Mathematical Institute: 0.000000
+Department of Oncology-Mathematical Physical and Life Sciences (MPLS): 0.017716
+Department of Oncology-Medical Sciences Division: 0.080996
+Department of Oncology-NOT FOUND: 0.049083
+Department of Oncology-Nuffield Department of Clinical Medicine: 0.126329
+Department of Oncology-Nuffield Department of Population Health: 0.061562
+Department of Oncology-Nuffield Department of Primary Care Health Sciences: 0.000000
+Department of Oncology-Personnel and Related Services: 0.049830
+Department of Oncology-Radcliffe Department of Medicine: 0.137531
+Department of Oncology-Radcliffe School of Medicine: 0.000000
+Department of Oncology-School of Geography and the Environment: 0.000000
+Department of Oncology-Social Sciences Division: 0.000000
+Department of Oncology-University Administration and Services (UAS): 0.000000
+Department of Oncology-University of Oxford: 0.000000
+
+
+Department of Physics-Bodleian Libraries: 0.000000
+Department of Physics-Centre for Health Service Economics and Organisation: 0.000000
+Department of Physics-Centre for Tropical Medicine and Global Health: 0.000000
+Department of Physics-Department of Chemistry: 0.000000
+Department of Physics-Department of Engineering Science: 0.082956
+Department of Physics-Department of Oncology: 0.000000
+Department of Physics-Department of Paediatrics: 0.091530
+Department of Physics-Department of Politics and International Relations (DPIR): 0.000000
+Department of Physics-Faculty of Classics: 0.000000
+Department of Physics-Faculty of History: 0.000000
+Department of Physics-Faculty of Law: 0.000000
+Department of Physics-Humanities Division: 0.089704
+Department of Physics-Kellogg College: 0.062287
+Department of Physics-Mathematical Institute: 0.059370
+Department of Physics-Mathematical Physical and Life Sciences (MPLS): 0.012769
+Department of Physics-Medical Sciences Division: 0.021763
+Department of Physics-NOT FOUND: 0.000000
+Department of Physics-Nuffield Department of Clinical Medicine: 0.009682
+Department of Physics-Nuffield Department of Population Health: 0.016224
+Department of Physics-Nuffield Department of Primary Care Health Sciences: 0.000000
+Department of Physics-Personnel and Related Services: 0.027620
+Department of Physics-Radcliffe Department of Medicine: 0.000000
+Department of Physics-Radcliffe School of Medicine: 0.000000
+Department of Physics-School of Geography and the Environment: 0.000000
+Department of Physics-Social Sciences Division: 0.009979
+Department of Physics-University Administration and Services (UAS): 0.000000
+Department of Physics-University of Oxford: 0.033568
+
+Department of Politics and International Relations (DPIR)-Bodleian Libraries: 0.103975
+Department of Politics and International Relations (DPIR)-Centre for Health Service Economics and Organisation: 0.000000
+Department of Politics and International Relations (DPIR)-Centre for Tropical Medicine and Global Health: 0.000000
+Department of Politics and International Relations (DPIR)-Department of Chemistry: 0.043519
+Department of Politics and International Relations (DPIR)-Department of Engineering Science: 0.020515
+Department of Politics and International Relations (DPIR)-Department of Oncology: 0.000000
+Department of Politics and International Relations (DPIR)-Department of Paediatrics: 0.000000
+Department of Politics and International Relations (DPIR)-Department of Physics: 0.000000
+Department of Politics and International Relations (DPIR)-Faculty of Classics: 0.000000
+Department of Politics and International Relations (DPIR)-Faculty of History: 0.000000
+Department of Politics and International Relations (DPIR)-Faculty of Law: 0.000000
+Department of Politics and International Relations (DPIR)-Humanities Division: 0.066391
+Department of Politics and International Relations (DPIR)-Kellogg College: 0.000000
+Department of Politics and International Relations (DPIR)-Mathematical Institute: 0.000000
+Department of Politics and International Relations (DPIR)-Mathematical Physical and Life Sciences (MPLS): 0.012981
+Department of Politics and International Relations (DPIR)-Medical Sciences Division: 0.030007
+Department of Politics and International Relations (DPIR)-NOT FOUND: 0.000000
+Department of Politics and International Relations (DPIR)-Nuffield Department of Clinical Medicine: 0.028765
+Department of Politics and International Relations (DPIR)-Nuffield Department of Population Health: 0.090351
+Department of Politics and International Relations (DPIR)-Nuffield Department of Primary Care Health Sciences: 0.000000
+Department of Politics and International Relations (DPIR)-Personnel and Related Services: 0.048347
+Department of Politics and International Relations (DPIR)-Radcliffe Department of Medicine: 0.000000
+Department of Politics and International Relations (DPIR)-Radcliffe School of Medicine: 0.142374
+Department of Politics and International Relations (DPIR)-School of Geography and the Environment: 0.000000
+Department of Politics and International Relations (DPIR)-Social Sciences Division: 0.066091
+Department of Politics and International Relations (DPIR)-University Administration and Services (UAS): 0.233152
+Department of Politics and International Relations (DPIR)-University of Oxford: 0.000000
+
+
+
+
+
+
+
+Humanities Division-Bodleian Libraries: 0.000000
+Humanities Division-Centre for Health Service Economics and Organisation: 0.000000
+Humanities Division-Centre for Tropical Medicine and Global Health: 0.000000
+Humanities Division-Department of Chemistry: 0.143019
+Humanities Division-Department of Engineering Science: 0.073831
+Humanities Division-Department of Oncology: 0.000000
+Humanities Division-Department of Paediatrics: 0.064931
+Humanities Division-Department of Physics: 0.089704
+Humanities Division-Department of Politics and International Relations (DPIR): 0.066391
+Humanities Division-Faculty of Classics: 0.000000
+Humanities Division-Faculty of History: 0.000000
+Humanities Division-Faculty of Law: 0.067420
+Humanities Division-Kellogg College: 0.000000
+Humanities Division-Mathematical Institute: 0.176802
+Humanities Division-Mathematical Physical and Life Sciences (MPLS): 0.035497
+Humanities Division-Medical Sciences Division: 0.027606
+Humanities Division-NOT FOUND: 0.000000
+Humanities Division-Nuffield Department of Clinical Medicine: 0.056051
+Humanities Division-Nuffield Department of Population Health: 0.048290
+Humanities Division-Nuffield Department of Primary Care Health Sciences: 0.057789
+Humanities Division-Personnel and Related Services: 0.070703
+Humanities Division-Radcliffe Department of Medicine: 0.000000
+Humanities Division-Radcliffe School of Medicine: 0.058387
+Humanities Division-School of Geography and the Environment: 0.000000
+Humanities Division-Social Sciences Division: 0.088052
+Humanities Division-University Administration and Services (UAS): 0.000000
+Humanities Division-University of Oxford: 0.023813
+
+
+
+Mathematical Institute-Bodleian Libraries: 0.000000
+Mathematical Institute-Centre for Health Service Economics and Organisation: 0.000000
+Mathematical Institute-Centre for Tropical Medicine and Global Health: 0.053567
+Mathematical Institute-Department of Chemistry: 0.235432
+Mathematical Institute-Department of Engineering Science: 0.068160
+Mathematical Institute-Department of Oncology: 0.000000
+Mathematical Institute-Department of Paediatrics: 0.075204
+Mathematical Institute-Department of Physics: 0.059370
+Mathematical Institute-Department of Politics and International Relations (DPIR): 0.000000
+Mathematical Institute-Faculty of Classics: 0.000000
+Mathematical Institute-Faculty of History: 0.000000
+Mathematical Institute-Faculty of Law: 0.169909
+Mathematical Institute-Humanities Division: 0.176802
+Mathematical Institute-Kellogg College: 0.000000
+Mathematical Institute-Mathematical Physical and Life Sciences (MPLS): 0.069469
+Mathematical Institute-Medical Sciences Division: 0.023769
+Mathematical Institute-NOT FOUND: 0.000000
+Mathematical Institute-Nuffield Department of Clinical Medicine: 0.077115
+Mathematical Institute-Nuffield Department of Population Health: 0.068946
+Mathematical Institute-Nuffield Department of Primary Care Health Sciences: 0.145018
+Mathematical Institute-Personnel and Related Services: 0.087097
+Mathematical Institute-Radcliffe Department of Medicine: 0.000000
+Mathematical Institute-Radcliffe School of Medicine: 0.192229
+Mathematical Institute-School of Geography and the Environment: 0.000000
+Mathematical Institute-Social Sciences Division: 0.095150
+Mathematical Institute-University Administration and Services (UAS): 0.017798
+Mathematical Institute-University of Oxford: 0.027581
+
+Mathematical Physical and Life Sciences (MPLS)-Bodleian Libraries: 0.000000
+Mathematical Physical and Life Sciences (MPLS)-Centre for Health Service Economics and Organisation: 0.000000
+Mathematical Physical and Life Sciences (MPLS)-Centre for Tropical Medicine and Global Health: 0.015158
+Mathematical Physical and Life Sciences (MPLS)-Department of Chemistry: 0.051335
+Mathematical Physical and Life Sciences (MPLS)-Department of Engineering Science: 0.001626
+Mathematical Physical and Life Sciences (MPLS)-Department of Oncology: 0.017716
+Mathematical Physical and Life Sciences (MPLS)-Department of Paediatrics: 0.000000
+Mathematical Physical and Life Sciences (MPLS)-Department of Physics: 0.012769
+Mathematical Physical and Life Sciences (MPLS)-Department of Politics and International Relations (DPIR): 0.012981
+Mathematical Physical and Life Sciences (MPLS)-Faculty of Classics: 0.000000
+Mathematical Physical and Life Sciences (MPLS)-Faculty of History: 0.000000
+Mathematical Physical and Life Sciences (MPLS)-Faculty of Law: 0.030979
+Mathematical Physical and Life Sciences (MPLS)-Humanities Division: 0.035497
+Mathematical Physical and Life Sciences (MPLS)-Kellogg College: 0.009422
+Mathematical Physical and Life Sciences (MPLS)-Mathematical Institute: 0.069469
+Mathematical Physical and Life Sciences (MPLS)-Medical Sciences Division: 0.009452
+Mathematical Physical and Life Sciences (MPLS)-NOT FOUND: 0.036577
+Mathematical Physical and Life Sciences (MPLS)-Nuffield Department of Clinical Medicine: 0.021549
+Mathematical Physical and Life Sciences (MPLS)-Nuffield Department of Population Health: 0.016025
+Mathematical Physical and Life Sciences (MPLS)-Nuffield Department of Primary Care Health Sciences: 0.011743
+Mathematical Physical and Life Sciences (MPLS)-Personnel and Related Services: 0.025535
+Mathematical Physical and Life Sciences (MPLS)-Radcliffe Department of Medicine: 0.000000
+Mathematical Physical and Life Sciences (MPLS)-Radcliffe School of Medicine: 0.039586
+Mathematical Physical and Life Sciences (MPLS)-School of Geography and the Environment: 0.007761
+Mathematical Physical and Life Sciences (MPLS)-Social Sciences Division: 0.028205
+Mathematical Physical and Life Sciences (MPLS)-University Administration and Services (UAS): 0.006317
+Mathematical Physical and Life Sciences (MPLS)-University of Oxford: 0.000000
+
+Medical Sciences Division-Bodleian Libraries: 0.016688
+Medical Sciences Division-Centre for Health Service Economics and Organisation: 0.000000
+Medical Sciences Division-Centre for Tropical Medicine and Global Health: 0.011874
+Medical Sciences Division-Department of Chemistry: 0.032779
+Medical Sciences Division-Department of Engineering Science: 0.099519
+Medical Sciences Division-Department of Oncology: 0.080996
+Medical Sciences Division-Department of Paediatrics: 0.177008
+Medical Sciences Division-Department of Physics: 0.021763
+Medical Sciences Division-Department of Politics and International Relations (DPIR): 0.030007
+Medical Sciences Division-Faculty of Classics: 0.000000
+Medical Sciences Division-Faculty of History: 0.013049
+Medical Sciences Division-Faculty of Law: 0.008888
+Medical Sciences Division-Humanities Division: 0.027606
+Medical Sciences Division-Kellogg College: 0.004913
+Medical Sciences Division-Mathematical Institute: 0.023769
+Medical Sciences Division-Mathematical Physical and Life Sciences (MPLS): 0.009452
+Medical Sciences Division-NOT FOUND: 0.033338
+Medical Sciences Division-Nuffield Department of Clinical Medicine: 0.107838
+Medical Sciences Division-Nuffield Department of Population Health: 0.107254
+Medical Sciences Division-Nuffield Department of Primary Care Health Sciences: 0.007280
+Medical Sciences Division-Personnel and Related Services: 0.069186
+Medical Sciences Division-Radcliffe Department of Medicine: 0.131689
+Medical Sciences Division-Radcliffe School of Medicine: 0.035586
+Medical Sciences Division-School of Geography and the Environment: 0.025739
+Medical Sciences Division-Social Sciences Division: 0.026885
+Medical Sciences Division-University Administration and Services (UAS): 0.046223
+Medical Sciences Division-University of Oxford: 0.015052
+
+NOT FOUND-Bodleian Libraries: 0.000000
+NOT FOUND-Centre for Health Service Economics and Organisation: 0.000000
+NOT FOUND-Centre for Tropical Medicine and Global Health: 0.000000
+NOT FOUND-Department of Chemistry: 0.000000
+NOT FOUND-Department of Engineering Science: 0.000000
+NOT FOUND-Department of Oncology: 0.049083
+NOT FOUND-Department of Paediatrics: 0.000000
+NOT FOUND-Department of Physics: 0.000000
+NOT FOUND-Department of Politics and International Relations (DPIR): 0.000000
+NOT FOUND-Faculty of Classics: 0.000000
+NOT FOUND-Faculty of History: 0.000000
+NOT FOUND-Faculty of Law: 0.000000
+NOT FOUND-Humanities Division: 0.000000
+NOT FOUND-Kellogg College: 0.000000
+NOT FOUND-Mathematical Institute: 0.000000
+NOT FOUND-Mathematical Physical and Life Sciences (MPLS): 0.036577
+NOT FOUND-Medical Sciences Division: 0.033338
+NOT FOUND-Nuffield Department of Clinical Medicine: 0.041516
+NOT FOUND-Nuffield Department of Population Health: 0.009626
+NOT FOUND-Nuffield Department of Primary Care Health Sciences: 0.000000
+NOT FOUND-Personnel and Related Services: 0.021616
+NOT FOUND-Radcliffe Department of Medicine: 0.068341
+NOT FOUND-Radcliffe School of Medicine: 0.000000
+NOT FOUND-School of Geography and the Environment: 0.000000
+NOT FOUND-Social Sciences Division: 0.000000
+NOT FOUND-University Administration and Services (UAS): 0.000000
+NOT FOUND-University of Oxford: 0.000000
+
+Nuffield Department of Clinical Medicine-Bodleian Libraries: 0.008098
+Nuffield Department of Clinical Medicine-Centre for Health Service Economics and Organisation: 0.000000
+Nuffield Department of Clinical Medicine-Centre for Tropical Medicine and Global Health: 0.029787
+Nuffield Department of Clinical Medicine-Department of Chemistry: 0.090724
+Nuffield Department of Clinical Medicine-Department of Engineering Science: 0.073483
+Nuffield Department of Clinical Medicine-Department of Oncology: 0.126329
+Nuffield Department of Clinical Medicine-Department of Paediatrics: 0.155179
+Nuffield Department of Clinical Medicine-Department of Physics: 0.009682
+Nuffield Department of Clinical Medicine-Department of Politics and International Relations (DPIR): 0.028765
+Nuffield Department of Clinical Medicine-Faculty of Classics: 0.000000
+Nuffield Department of Clinical Medicine-Faculty of History: 0.000000
+Nuffield Department of Clinical Medicine-Faculty of Law: 0.036035
+Nuffield Department of Clinical Medicine-Humanities Division: 0.056051
+Nuffield Department of Clinical Medicine-Kellogg College: 0.004352
+Nuffield Department of Clinical Medicine-Mathematical Institute: 0.077115
+Nuffield Department of Clinical Medicine-Mathematical Physical and Life Sciences (MPLS): 0.021549
+Nuffield Department of Clinical Medicine-Medical Sciences Division: 0.107838
+Nuffield Department of Clinical Medicine-NOT FOUND: 0.041516
+Nuffield Department of Clinical Medicine-Nuffield Department of Population Health: 0.086163
+Nuffield Department of Clinical Medicine-Nuffield Department of Primary Care Health Sciences: 0.095458
+Nuffield Department of Clinical Medicine-Personnel and Related Services: 0.086614
+Nuffield Department of Clinical Medicine-Radcliffe Department of Medicine: 0.278699
+Nuffield Department of Clinical Medicine-Radcliffe School of Medicine: 0.071310
+Nuffield Department of Clinical Medicine-School of Geography and the Environment: 0.025057
+Nuffield Department of Clinical Medicine-Social Sciences Division: 0.043278
+Nuffield Department of Clinical Medicine-University Administration and Services (UAS): 0.005244
+Nuffield Department of Clinical Medicine-University of Oxford: 0.009329
+
+Nuffield Department of Population Health-Bodleian Libraries: 0.064260
+Nuffield Department of Population Health-Centre for Health Service Economics and Organisation: 0.000000
+Nuffield Department of Population Health-Centre for Tropical Medicine and Global Health: 0.000000
+Nuffield Department of Population Health-Department of Chemistry: 0.064293
+Nuffield Department of Population Health-Department of Engineering Science: 0.195935
+Nuffield Department of Population Health-Department of Oncology: 0.061562
+Nuffield Department of Population Health-Department of Paediatrics: 0.374607
+Nuffield Department of Population Health-Department of Physics: 0.016224
+Nuffield Department of Population Health-Department of Politics and International Relations (DPIR): 0.090351
+Nuffield Department of Population Health-Faculty of Classics: 0.000000
+Nuffield Department of Population Health-Faculty of History: 0.000000
+Nuffield Department of Population Health-Faculty of Law: 0.036370
+Nuffield Department of Population Health-Humanities Division: 0.048290
+Nuffield Department of Population Health-Kellogg College: 0.000000
+Nuffield Department of Population Health-Mathematical Institute: 0.068946
+Nuffield Department of Population Health-Mathematical Physical and Life Sciences (MPLS): 0.016025
+Nuffield Department of Population Health-Medical Sciences Division: 0.107254
+Nuffield Department of Population Health-NOT FOUND: 0.009626
+Nuffield Department of Population Health-Nuffield Department of Clinical Medicine: 0.086163
+Nuffield Department of Population Health-Nuffield Department of Primary Care Health Sciences: 0.000000
+Nuffield Department of Population Health-Personnel and Related Services: 0.105566
+Nuffield Department of Population Health-Radcliffe Department of Medicine: 0.000000
+Nuffield Department of Population Health-Radcliffe School of Medicine: 0.031497
+Nuffield Department of Population Health-School of Geography and the Environment: 0.047135
+Nuffield Department of Population Health-Social Sciences Division: 0.055438
+Nuffield Department of Population Health-University Administration and Services (UAS): 0.144494
+Nuffield Department of Population Health-University of Oxford: 0.011742
+
+
+
+Personnel and Related Services-Bodleian Libraries: 0.024624
+Personnel and Related Services-Centre for Health Service Economics and Organisation: 0.000000
+Personnel and Related Services-Centre for Tropical Medicine and Global Health: 0.019282
+Personnel and Related Services-Department of Chemistry: 0.093310
+Personnel and Related Services-Department of Engineering Science: 0.088351
+Personnel and Related Services-Department of Oncology: 0.049830
+Personnel and Related Services-Department of Paediatrics: 0.151601
+Personnel and Related Services-Department of Physics: 0.027620
+Personnel and Related Services-Department of Politics and International Relations (DPIR): 0.048347
+Personnel and Related Services-Faculty of Classics: 0.003227
+Personnel and Related Services-Faculty of History: 0.016398
+Personnel and Related Services-Faculty of Law: 0.041092
+Personnel and Related Services-Humanities Division: 0.070703
+Personnel and Related Services-Kellogg College: 0.010419
+Personnel and Related Services-Mathematical Institute: 0.087097
+Personnel and Related Services-Mathematical Physical and Life Sciences (MPLS): 0.025535
+Personnel and Related Services-Medical Sciences Division: 0.069186
+Personnel and Related Services-NOT FOUND: 0.021616
+Personnel and Related Services-Nuffield Department of Clinical Medicine: 0.086614
+Personnel and Related Services-Nuffield Department of Population Health: 0.105566
+Personnel and Related Services-Nuffield Department of Primary Care Health Sciences: 0.021966
+Personnel and Related Services-Radcliffe Department of Medicine: 0.053389
+Personnel and Related Services-Radcliffe School of Medicine: 0.070398
+Personnel and Related Services-School of Geography and the Environment: 0.023638
+Personnel and Related Services-Social Sciences Division: 0.056711
+Personnel and Related Services-University Administration and Services (UAS): 0.055453
+Personnel and Related Services-University of Oxford: 0.012927
+
+
+
+
+School of Geography and the Environment-Bodleian Libraries: 0.109065
+School of Geography and the Environment-Centre for Health Service Economics and Organisation: 0.000000
+School of Geography and the Environment-Centre for Tropical Medicine and Global Health: 0.000000
+School of Geography and the Environment-Department of Chemistry: 0.000000
+School of Geography and the Environment-Department of Engineering Science: 0.025660
+School of Geography and the Environment-Department of Oncology: 0.000000
+School of Geography and the Environment-Department of Paediatrics: 0.055604
+School of Geography and the Environment-Department of Physics: 0.000000
+School of Geography and the Environment-Department of Politics and International Relations (DPIR): 0.000000
+School of Geography and the Environment-Faculty of Classics: 0.000000
+School of Geography and the Environment-Faculty of History: 0.000000
+School of Geography and the Environment-Faculty of Law: 0.000000
+School of Geography and the Environment-Humanities Division: 0.000000
+School of Geography and the Environment-Kellogg College: 0.000000
+School of Geography and the Environment-Mathematical Institute: 0.000000
+School of Geography and the Environment-Mathematical Physical and Life Sciences (MPLS): 0.007761
+School of Geography and the Environment-Medical Sciences Division: 0.025739
+School of Geography and the Environment-NOT FOUND: 0.000000
+School of Geography and the Environment-Nuffield Department of Clinical Medicine: 0.025057
+School of Geography and the Environment-Nuffield Department of Population Health: 0.047135
+School of Geography and the Environment-Nuffield Department of Primary Care Health Sciences: 0.131966
+School of Geography and the Environment-Personnel and Related Services: 0.023638
+School of Geography and the Environment-Radcliffe Department of Medicine: 0.000000
+School of Geography and the Environment-Radcliffe School of Medicine: 0.000000
+School of Geography and the Environment-Social Sciences Division: 0.021650
+School of Geography and the Environment-University Administration and Services (UAS): 0.066043
+School of Geography and the Environment-University of Oxford: 0.032324
+
+Social Sciences Division-Bodleian Libraries: 0.019692
+Social Sciences Division-Centre for Health Service Economics and Organisation: 0.023250
+Social Sciences Division-Centre for Tropical Medicine and Global Health: 0.000000
+Social Sciences Division-Department of Chemistry: 0.116035
+Social Sciences Division-Department of Engineering Science: 0.032910
+Social Sciences Division-Department of Oncology: 0.000000
+Social Sciences Division-Department of Paediatrics: 0.025452
+Social Sciences Division-Department of Physics: 0.009979
+Social Sciences Division-Department of Politics and International Relations (DPIR): 0.066091
+Social Sciences Division-Faculty of Classics: 0.000000
+Social Sciences Division-Faculty of History: 0.022519
+Social Sciences Division-Faculty of Law: 0.057590
+Social Sciences Division-Humanities Division: 0.088052
+Social Sciences Division-Kellogg College: 0.000000
+Social Sciences Division-Mathematical Institute: 0.095150
+Social Sciences Division-Mathematical Physical and Life Sciences (MPLS): 0.028205
+Social Sciences Division-Medical Sciences Division: 0.026885
+Social Sciences Division-NOT FOUND: 0.000000
+Social Sciences Division-Nuffield Department of Clinical Medicine: 0.043278
+Social Sciences Division-Nuffield Department of Population Health: 0.055438
+Social Sciences Division-Nuffield Department of Primary Care Health Sciences: 0.000000
+Social Sciences Division-Personnel and Related Services: 0.056711
+Social Sciences Division-Radcliffe Department of Medicine: 0.000000
+Social Sciences Division-Radcliffe School of Medicine: 0.084080
+Social Sciences Division-School of Geography and the Environment: 0.021650
+Social Sciences Division-University Administration and Services (UAS): 0.041509
+Social Sciences Division-University of Oxford: 0.020693
+
+University Administration and Services (UAS)-Bodleian Libraries: 0.220234
+University Administration and Services (UAS)-Centre for Health Service Economics and Organisation: 0.000000
+University Administration and Services (UAS)-Centre for Tropical Medicine and Global Health: 0.039088
+University Administration and Services (UAS)-Department of Chemistry: 0.040291
+University Administration and Services (UAS)-Department of Engineering Science: 0.000000
+University Administration and Services (UAS)-Department of Oncology: 0.000000
+University Administration and Services (UAS)-Department of Paediatrics: 0.000000
+University Administration and Services (UAS)-Department of Physics: 0.000000
+University Administration and Services (UAS)-Department of Politics and International Relations (DPIR): 0.233152
+University Administration and Services (UAS)-Faculty of Classics: 0.050965
+University Administration and Services (UAS)-Faculty of History: 0.000000
+University Administration and Services (UAS)-Faculty of Law: 0.000000
+University Administration and Services (UAS)-Humanities Division: 0.000000
+University Administration and Services (UAS)-Kellogg College: 0.000000
+University Administration and Services (UAS)-Mathematical Institute: 0.017798
+University Administration and Services (UAS)-Mathematical Physical and Life Sciences (MPLS): 0.006317
+University Administration and Services (UAS)-Medical Sciences Division: 0.046223
+University Administration and Services (UAS)-NOT FOUND: 0.000000
+University Administration and Services (UAS)-Nuffield Department of Clinical Medicine: 0.005244
+University Administration and Services (UAS)-Nuffield Department of Population Health: 0.144494
+University Administration and Services (UAS)-Nuffield Department of Primary Care Health Sciences: 0.032560
+University Administration and Services (UAS)-Personnel and Related Services: 0.055453
+University Administration and Services (UAS)-Radcliffe Department of Medicine: 0.000000
+University Administration and Services (UAS)-Radcliffe School of Medicine: 0.032898
+University Administration and Services (UAS)-School of Geography and the Environment: 0.066043
+University Administration and Services (UAS)-Social Sciences Division: 0.041509
+University Administration and Services (UAS)-University of Oxford: 0.045626
+
+University of Oxford-Bodleian Libraries: 0.065191
+University of Oxford-Centre for Health Service Economics and Organisation: 0.000000
+University of Oxford-Centre for Tropical Medicine and Global Health: 0.000000
+University of Oxford-Department of Chemistry: 0.000000
+University of Oxford-Department of Engineering Science: 0.038538
+University of Oxford-Department of Oncology: 0.000000
+University of Oxford-Department of Paediatrics: 0.042521
+University of Oxford-Department of Physics: 0.033568
+University of Oxford-Department of Politics and International Relations (DPIR): 0.000000
+University of Oxford-Faculty of Classics: 0.000000
+University of Oxford-Faculty of History: 0.000000
+University of Oxford-Faculty of Law: 0.000000
+University of Oxford-Humanities Division: 0.023813
+University of Oxford-Kellogg College: 0.000000
+University of Oxford-Mathematical Institute: 0.027581
+University of Oxford-Mathematical Physical and Life Sciences (MPLS): 0.000000
+University of Oxford-Medical Sciences Division: 0.015052
+University of Oxford-NOT FOUND: 0.000000
+University of Oxford-Nuffield Department of Clinical Medicine: 0.009329
+University of Oxford-Nuffield Department of Population Health: 0.011742
+University of Oxford-Nuffield Department of Primary Care Health Sciences: 0.000000
+University of Oxford-Personnel and Related Services: 0.012927
+University of Oxford-Radcliffe Department of Medicine: 0.000000
+University of Oxford-Radcliffe School of Medicine: 0.000000
+University of Oxford-School of Geography and the Environment: 0.032324
+University of Oxford-Social Sciences Division: 0.020693
+University of Oxford-University Administration and Services (UAS): 0.045626
+
