@@ -1,0 +1,30 @@
+business-business: 0.022517
+entertainment-entertainment: 0.017293
+politics-politics: 0.056493
+sport-sport: 0.034934
+tech-tech: 0.031229
+
+business-entertainment: 0.006136
+business-politics: 0.010175
+business-sport: 0.004611
+business-tech: 0.007221
+
+entertainment-business: 0.006136
+entertainment-politics: 0.006685
+entertainment-sport: 0.004233
+entertainment-tech: 0.006012
+
+politics-business: 0.010175
+politics-entertainment: 0.006685
+politics-sport: 0.006262
+politics-tech: 0.005992
+
+sport-business: 0.004611
+sport-entertainment: 0.004233
+sport-politics: 0.006262
+sport-tech: 0.002650
+
+tech-business: 0.007221
+tech-entertainment: 0.006012
+tech-politics: 0.005992
+tech-sport: 0.002650
